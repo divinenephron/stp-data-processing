@@ -1,1 +1,1 @@
-sinstall.packages("tidyverse")
+install.packages("tidyverse")
